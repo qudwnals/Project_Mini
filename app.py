@@ -346,7 +346,7 @@ with tab3:
                         yaxis='y2'
                     ))
 
-                # 👇 [수정할 부분!] 오른쪽 Y축(y2) 설정을 추가하고 범례 위치를 깔끔하게 맞춥니다.
+                
                 fig_tech.update_layout(
                     height=500, 
                     template="plotly_white", 
