@@ -40,7 +40,6 @@ ENV/
 # Data & Database
 data/*.csv
 data/*.json
-*.db
 *.sqlite3
 
 !data/README.md
